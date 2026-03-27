@@ -21,3 +21,6 @@ This project analyzes differential gene expression between COVID-19 and healthy 
 
 ## Author
 Shaik Thousif
+
+## License
+This project is licensed under the MIT License.
